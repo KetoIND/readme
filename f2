@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Internet protocol:
 http
 https
@@ -5,3 +6,6 @@ ftp
 smtp
 tcp/ip
 udp
+=======
+all the proctocols deleted in conflict branch
+>>>>>>> conflict
